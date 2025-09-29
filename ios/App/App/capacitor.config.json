@@ -1,0 +1,6 @@
+{
+	"appId": "com.guardianx.mobile",
+	"appName": "guardian-x",
+	"webDir": "build/web",
+	"packageClassList": []
+}
